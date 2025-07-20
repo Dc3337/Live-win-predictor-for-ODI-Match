@@ -1,0 +1,17 @@
+0	inning	q
+1	over	q
+2	runs_scored_in_over	q
+3	player_dismissed_in_over	q
+4	wickets_fallen	q
+5	runs_scored	q
+6	target_score	q
+7	remaining_target	q
+8	run_rate	q
+9	required_run_rate	q
+10	runrate_diff	q
+11	is_batting_team	q
+12	head_2_head	q
+13	last_5_matches_batting_team	q
+14	last_5_matches_fielding_team	q
+15	wrl	q
+16	fd	q
