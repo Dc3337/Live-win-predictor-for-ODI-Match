@@ -106,19 +106,19 @@ To improve the predictive power of the model, future versions may include:
 - **Libraries:** pandas, numpy, scikit-learn, XGBoost
 
 ---
-
 ## 📁 Repository Structure
+
 📦 Live-win-predictor-for-ODI-Match/
-├── 📁 Model/                 # All scripts and notebooks
-│   └── final_code.ipynb
-│
-├── 📁 Data/                 # Raw or processed datasets (excluded if too large)
-│   └── Compress_files.zip
-│
-├── 📁 Report/               # Presentation and project report files
-│   ├── Report.pdf
-│   └── Presentation.pdf
-│
-├── README.md               # Project overview, setup, usage, etc.
-└── requirements.txt        # Python dependencies
+├── 📁 Model/                 # All scripts and notebooks  
+│   └── final_code.ipynb  
+│  
+├── 📁 Data/                  # Raw or processed datasets (excluded if too large)  
+│   └── Compress_files.zip  
+│  
+├── 📁 Report/                # Presentation and project report files  
+│   ├── Report.pdf  
+│   └── Presentation.pdf  
+│  
+├── README.md                # Project overview, setup, usage, etc.  
+└── requirements.txt         # Python dependencies  
 
